@@ -11,7 +11,7 @@ The background idea of the project is the websites like Quora, StackOverflow, et
 
 # Screenshot
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam010/Discussion-Form/master/images/Screenshot.jpg" alt="Screenshot"/>
+  <img src="Screenshot (2).jpg" alt="Screenshot"/>
 </p>
 
 # Request for Contribution
