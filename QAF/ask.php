@@ -106,7 +106,7 @@
         
         <!-- Footer -->
         <div id="footer" style="padding:30px;">
-            &copy; 2017 &bull; Interrogate Inc.
+            &copy; 2022 &bull; Interrogate Inc.
         </div>
         
         <!-- Sripts -->
